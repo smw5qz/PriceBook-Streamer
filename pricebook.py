@@ -1,4 +1,4 @@
-#stream supply/demand for SPY from pricebook
+#stream supply/demand for any symbol from pricebook
 
 import robin_stocks as rs
 import time as t
